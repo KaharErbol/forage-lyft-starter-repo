@@ -14,6 +14,6 @@ Run this code in command line:
 Battery - `python -m unittest -v test_battery`
 Engine - `python -m unittest -v test_engine`
 
-Also did one test for car:
+Unit tests for car models:
 `python -m unittest -v test_car`
 Please notice the input date type is string for creating the model.
