@@ -9,11 +9,10 @@ model accordingly by calling the function from the create_car instance, did not 
 Also, for easier user input, when creating a model by calling create method from create_car instance, one just need to input string form of a date, for example, '2020-01-01'.
 
 ## Unit Test
-Did through tests for engine and batteries.
-Run this code in command line:
-Battery - `python -m unittest -v test_battery`
-Engine - `python -m unittest -v test_engine`
+Run this code in command line:  
+Battery - `python -m unittest -v test_battery`  
+Engine - `python -m unittest -v test_engine`  
+Tire - `python -m unittest -v test_tire`  
+Car - `python -m unittest -v test_car`
 
-Unit tests for car models:
-`python -m unittest -v test_car`
-Please notice the input date type is string for creating the model.
+
